@@ -1,0 +1,14 @@
+C:\Projects\Sentios1\SentiosData\SentiosService\bin\Debug\SentiosService.dll
+C:\Projects\Sentios1\SentiosData\SentiosService\bin\Debug\SentiosService.pdb
+C:\Projects\Sentios1\SentiosData\SentiosService\bin\Debug\SentiosData.dll
+C:\Projects\Sentios1\SentiosData\SentiosService\bin\Debug\SentiosData.pdb
+C:\Projects\Sentios1\SentiosData\SentiosService\obj\Debug\SentiosService.csprojResolveAssemblyReference.cache
+C:\Projects\Sentios1\SentiosData\SentiosService\obj\Debug\SentiosService.dll
+C:\Projects\Sentios1\SentiosData\SentiosService\obj\Debug\SentiosService.pdb
+C:\Users\Martynas\Desktop\Sentios1\SentiosData\SentiosService\bin\Debug\SentiosService.dll
+C:\Users\Martynas\Desktop\Sentios1\SentiosData\SentiosService\bin\Debug\SentiosService.pdb
+C:\Users\Martynas\Desktop\Sentios1\SentiosData\SentiosService\bin\Debug\SentiosData.dll
+C:\Users\Martynas\Desktop\Sentios1\SentiosData\SentiosService\bin\Debug\SentiosData.pdb
+C:\Users\Martynas\Desktop\Sentios1\SentiosData\SentiosService\obj\Debug\SentiosService.csprojResolveAssemblyReference.cache
+C:\Users\Martynas\Desktop\Sentios1\SentiosData\SentiosService\obj\Debug\SentiosService.dll
+C:\Users\Martynas\Desktop\Sentios1\SentiosData\SentiosService\obj\Debug\SentiosService.pdb

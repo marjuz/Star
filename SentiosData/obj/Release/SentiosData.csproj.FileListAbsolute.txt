@@ -1,0 +1,4 @@
+C:\Projects\Sentios1\SentiosData\SentiosData\bin\Release\SentiosData.dll
+C:\Projects\Sentios1\SentiosData\SentiosData\bin\Release\SentiosData.pdb
+C:\Projects\Sentios1\SentiosData\SentiosData\obj\Release\SentiosData.dll
+C:\Projects\Sentios1\SentiosData\SentiosData\obj\Release\SentiosData.pdb

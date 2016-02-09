@@ -1,0 +1,66 @@
+﻿@model IEnumerable<SentiosData.Model.RSS>
+
+@{
+    ViewBag.Title = "CVP IS konkursų sąrašas";
+}
+
+<h2>Konkursai</h2>
+
+
+
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
+<table class="table">
+    <tr>
+        <th>
+            Valstybė
+        </th>
+        <th>
+
+        </th>
+            <th>
+            @*@Html.DisplayNameFor(model => model.Title)*@
+                <center>Konkurso pavadinimas</center>
+</th>
+            <th>
+            <center>Aprašymas</center>
+            </th>
+            <th>
+                Pateikimo data
+            </th>
+        </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                <div>
+                <img src="~/Images/litf-30.JPG" alt="Image" />
+                </div>
+                
+
+            </td>
+            <td>
+                <div><input id="Name" name="Name" type="checkbox" /></div>
+
+            </td>
+
+            <td>
+                <a href=@Html.DisplayFor(modelItem => item.Link)>
+                    <div>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </div>
+                </a>
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+               
+            <td>
+                @Html.DisplayFor(modelItem => item.SomeText)
+            </td>
+        </tr>
+    }
+
+    </table>

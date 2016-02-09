@@ -1,0 +1,7 @@
+C:\Projects\Sentios1\SentiosData\SentiosService\bin\Release\SentiosService.dll
+C:\Projects\Sentios1\SentiosData\SentiosService\bin\Release\SentiosService.pdb
+C:\Projects\Sentios1\SentiosData\SentiosService\bin\Release\SentiosData.dll
+C:\Projects\Sentios1\SentiosData\SentiosService\bin\Release\SentiosData.pdb
+C:\Projects\Sentios1\SentiosData\SentiosService\obj\Release\SentiosService.csprojResolveAssemblyReference.cache
+C:\Projects\Sentios1\SentiosData\SentiosService\obj\Release\SentiosService.dll
+C:\Projects\Sentios1\SentiosData\SentiosService\obj\Release\SentiosService.pdb

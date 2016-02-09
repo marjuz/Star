@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<div class="navbar navbar-inverse navbar-fixed-left">
+        <div class="container">
+            <div class="navbar-collapse collapse">
+             
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Users", "UsersEdit", "Admin")</li>
+                    <li>@Html.ActionLink("Roles", "RolesEdit", "Account")</li>
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+
+<div class="container body-content">
+
+       
+        @Html.Partial("_Index")
+        
+
+    </div>
+
+
+
